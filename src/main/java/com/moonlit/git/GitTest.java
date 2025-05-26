@@ -5,5 +5,7 @@ public class GitTest {
         System.out.println("Welcome to Git 01!");
         System.out.println("Welcome to Git 02!");
         System.out.println("Welcome to Git 03!");
+
+        System.out.println("Welcome to Git 01!");
     }
 }
