@@ -13,5 +13,8 @@ public class GitTest {
 
         // hot-fix
         System.out.println("Welcome to Git 01!");
+
+        // dev-yq-01
+        System.out.println("dev-yq-01:Welcome to Git 01!");
     }
 }
