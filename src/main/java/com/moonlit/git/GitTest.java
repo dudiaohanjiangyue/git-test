@@ -16,5 +16,8 @@ public class GitTest {
 
         // dev-yq-01
         System.out.println("dev-yq-01:Welcome to Git 01!");
+
+        // dev-yq-02
+        System.out.println("dev-yq-02:Welcome to Git 01!");
     }
 }
